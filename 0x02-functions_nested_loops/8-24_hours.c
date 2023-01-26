@@ -8,7 +8,7 @@
 void jack_bauer(void)
 {
 	int min, hour;
-	
+
 	for (hour = 0; hour < 24; hour++)
 	{
 		if (hour < 10)
@@ -25,8 +25,8 @@ void jack_bauer(void)
 				_putchar('0');
 				_putchar(min + '0');
 			}
-			_putchar(min = '0');
+			_putchar(min + '0');
 		}
-	_putchar(10);
+		_putchar(10);
 	}
 }

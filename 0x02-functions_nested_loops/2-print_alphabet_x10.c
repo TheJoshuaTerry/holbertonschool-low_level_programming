@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
-  print_alphabet_10x - Entry point
+ * print_alphabet_10x - see description
  *
  * Return: Always 0 (Success)
 */

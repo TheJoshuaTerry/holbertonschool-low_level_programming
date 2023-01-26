@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * print_alphabet_10x - see description
+ * print_alphabet_x10 - see description
  * Description: Print alpha 10 times
  * Return: Always 0 (Success)
 */
